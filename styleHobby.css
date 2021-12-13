@@ -1,0 +1,66 @@
+body{
+	background: white;
+	
+
+}
+.title{
+	background: url(cl555.jpg);
+	background-repeat: no-repeat;
+	color: black;
+	font-style: italic;
+	font-family: serif;
+	margin-top: 4%;
+}
+
+.content{
+	background: black;
+	background-repeat: no-repeat;
+	opacity: 80%;
+	padding: 2px;
+	
+}
+h1{
+	margin-left: 2%;
+	font-size: 50px;
+	color: white;
+	margin-top: 2%;
+	color: black;
+}
+h3{
+	color: white;
+}
+p{
+	font-style: bold;
+	color: white;
+}
+li a{
+	color: black;
+}
+.jumbotron{
+	margin-top:1%;
+	height: 35%;
+	background: url(cl5.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	color: black;
+}
+.navbar-side{
+	margin-top: 3%;
+	background: url(cl55.jpg);
+}
+.col{
+	margin-top: 3%;
+}
+.footer{
+	background: url(cl555.jpg);
+	opacity: 80%;
+}
+.footer table{
+	color: black;
+}
+.manage{
+	color: black;
+}
+.bikes p{
+		color: black;
+}
